@@ -1,3 +1,2 @@
-- https://ohshitgit.com/ - vulgar website of a man frustrated with git. It has some useful tips though.
 - https://www.gitkraken.com/ - Example gui for git. Good as any, but this one at least looks modern.
 - https://learngitbranching.js.org/?locale=pl - Quite user friendly git branching course. It has visualisations!
