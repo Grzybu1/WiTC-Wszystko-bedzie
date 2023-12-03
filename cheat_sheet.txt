@@ -1,2 +1,9 @@
 1. Interactive rebase
-	git rebase -i <commit hash>
+	a. git rebase -i <commit hash>
+	b. git rebase --continue
+	c. git rebase --abort
+2. Reset branch
+	a. soft reset (change index, but leave file state)
+		git reset <commit hash>
+	b. hard reset (change index AND file state)
+		git reset --hard <commit hash>
