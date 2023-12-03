@@ -7,3 +7,9 @@
 		git reset <commit hash>
 	b. hard reset (change index AND file state)
 		git reset --hard <commit hash>
+3. Useful refs
+	a. HEAD - current commit
+	b. HEAD^ - previous commit
+	c. HEAD~<number> - <number>-th previous commit 
+					i.g. HEAD~2 means the second previous commit to current one,
+						 HEAD~1 == HEAD^
