@@ -1,0 +1,1 @@
+- https://www.gitkraken.com/ - Example gui for git. Good as any, but this one at least looks modern.
