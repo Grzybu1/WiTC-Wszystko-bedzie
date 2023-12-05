@@ -1,0 +1,2 @@
+1. Interactive rebase
+	git rebase -i <commit hash>
